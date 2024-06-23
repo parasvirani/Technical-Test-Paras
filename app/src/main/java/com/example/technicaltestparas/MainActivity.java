@@ -23,7 +23,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-
+// technical task
     private ActivityMainBinding binding;
     private View selectedItem = null;
 
