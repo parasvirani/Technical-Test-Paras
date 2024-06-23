@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Technical Test Paras</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="morning">Morning</string>
+    <string name="book_appointment_by">Book appointment by </string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+</resources>
